@@ -8,7 +8,7 @@ function setup( ) {
   fill ("purple");
   
   if (mouseIsPressed){ 
-    rect(mouseX,mouseY, 20, 35);
+    rect(mouseX, mouseY, 20, 35);
     
   }
     }
